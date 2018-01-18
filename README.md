@@ -14,5 +14,7 @@ We calculate probability of hidden nodes given visible nodes (sigmoid) and proba
 
 We then approximate the contrastive divergence using last three steps of the below diagram.
 
-Snapshot of the alogorithm goes as by the below steps. 
+Snapshot of the alogorithm goes as by the below steps.
+
+
 ![alt tag](https://github.com/PragadeshVasudevan/Restricted-Boltzmann-Machine-Recommendation/blob/master/ml-100k/Screenshot.PNG)
