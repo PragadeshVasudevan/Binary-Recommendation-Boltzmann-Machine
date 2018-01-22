@@ -17,3 +17,5 @@ We then approximate the contrastive divergence using last three steps of the bel
 Snapshot of the algorithm goes as by the below steps.
 
 ![alt tag](https://github.com/PragadeshVasudevan/Restricted-Boltzmann-Machine-Recommendation/blob/master/ml-100k/Screenshot.PNG)
+
+# Binary Recommendation Boltzmann Machine
