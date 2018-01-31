@@ -18,3 +18,4 @@ Snapshot of the algorithm goes as by the below steps.
 
 ![alt tag](https://github.com/PragadeshVasudevan/Restricted-Boltzmann-Machine-Recommendation/blob/master/ml-100k/Screenshot.PNG)
 
+Course Tutorial from Udemy
